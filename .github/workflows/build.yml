@@ -12,8 +12,8 @@ on:
     branches:
       - main
   schedule:
-    # POSIX cron syntax (Fridays, 5pm), https://crontab.guru/#0_17_*_*_5
-    - cron: "0 17 * * 5"
+    # POSIX cron syntax (Monday, Wednesday, and Friday, 9pm), https://crontab.guru/#0_21_*_*_1,3,5
+    - cron: "0 21 * * 1,3,5"
 
 
 env:
