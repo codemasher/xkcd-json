@@ -1,0 +1,23 @@
+# IDE - IntelliJ
+.idea/*
+# Keep the code styles.
+!.idea/codeStyles
+.idea/codeStyles/*
+!.idea/codeStyles/Project.xml
+!.idea/codeStyles/codeStyleConfig.xml
+# Keep the inspection levels
+!.idea/inspectionProfiles
+.idea/inspectionProfiles/*
+!.idea/inspectionProfiles/Project_Default.xml
+
+# project stuff
+.build/*
+.config/*
+vendor/*
+#composer.lock
+phpcs.xml
+phpdoc.xml
+phpmd.xml
+phpunit.xml
+phpstan.neon
+tools/cacert.pem

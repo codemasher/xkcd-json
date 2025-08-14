@@ -1,0 +1,48 @@
+{
+	"$schema": "https://getcomposer.org/schema.json",
+	"name": "codemasher/xkcd-json",
+	"description": "xkcd comic metadata",
+	"license": "MIT",
+	"type": "library",
+	"keywords": ["xkcd"],
+	"authors": [
+		{
+			"name": "smiley",
+			"email": "smiley@chillerlan.net",
+			"homepage": "https://github.com/codemasher"
+		}
+	],
+	"funding": [
+		{
+			"type": "Ko-Fi",
+			"url": "https://ko-fi.com/codemasher"
+		}
+	],
+	"homepage": "https://github.com/codemasher/xkcd-json",
+	"minimum-stability": "stable",
+	"prefer-stable": true,
+	"require": {
+		"php": "^8.1"
+	},
+	"require-dev": {
+		"chillerlan/php-httpinterface": "^6.0",
+		"monolog/monolog": "^3.9"
+	},
+	"autoload": {
+		"psr-4": {
+			"codemasher\\xkcd\\": "src"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"codemasher\\xkcdTest\\": "tests"
+		}
+	},
+	"scripts": {
+	},
+	"config": {
+		"lock": true,
+		"sort-packages": true,
+		"platform-check": true
+	}
+}
