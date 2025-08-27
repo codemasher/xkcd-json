@@ -25046,5 +25046,13 @@
         "image": "https://imgs.xkcd.com/comics/coastline_similarity.png",
         "alt": "Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!",
         "transcript": ""
+    },
+    "xkcd-3133": {
+        "id": 3133,
+        "date": 1756123200,
+        "title": "Dual Roomba",
+        "image": "https://imgs.xkcd.com/comics/dual_roomba.png",
+        "alt": "I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans.",
+        "transcript": ""
     }
 }
