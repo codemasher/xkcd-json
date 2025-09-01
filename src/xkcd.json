@@ -25062,5 +25062,13 @@
         "image": "https://imgs.xkcd.com/comics/wavefunction_collapse.png",
         "alt": "Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.",
         "transcript": ""
+    },
+    "xkcd-3135": {
+        "id": 3135,
+        "date": 1756468800,
+        "title": "Sea Level",
+        "image": "https://imgs.xkcd.com/comics/sea_level.png",
+        "alt": "They're up there with coral islands, lightning, and caterpillars turning into butterflies.",
+        "transcript": ""
     }
 }
