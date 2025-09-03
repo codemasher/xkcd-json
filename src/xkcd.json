@@ -25070,5 +25070,13 @@
         "image": "https://imgs.xkcd.com/comics/sea_level.png",
         "alt": "They're up there with coral islands, lightning, and caterpillars turning into butterflies.",
         "transcript": ""
+    },
+    "xkcd-3136": {
+        "id": 3136,
+        "date": 1756728000,
+        "title": "Pull",
+        "image": "https://imgs.xkcd.com/comics/pull.png",
+        "alt": "Be careful fighting gravity. If you win, it's a long way down.",
+        "transcript": ""
     }
 }
