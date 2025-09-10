@@ -25094,5 +25094,21 @@
         "image": "https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png",
         "alt": "A person with two watches is never sure what time it is, especially if I got them one of the watches.",
         "transcript": ""
+    },
+    "xkcd-3139": {
+        "id": 3139,
+        "date": 1757332800,
+        "title": "Chess Variant",
+        "image": "https://imgs.xkcd.com/comics/chess_variant.png",
+        "alt": "The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.",
+        "transcript": ""
+    },
+    "xkcd-3140": {
+        "id": 3140,
+        "date": 1757505600,
+        "title": "Biology Department",
+        "image": "https://imgs.xkcd.com/comics/biology_department.png",
+        "alt": "Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets.",
+        "transcript": ""
     }
 }
