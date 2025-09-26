@@ -25158,5 +25158,13 @@
         "image": "https://imgs.xkcd.com/comics/fantastic_four.png",
         "alt": "One perk of being born at 0.88c is that your birthday is over two days long.",
         "transcript": ""
+    },
+    "xkcd-3147": {
+        "id": 3147,
+        "date": 1758888000,
+        "title": "Hiking",
+        "image": "https://imgs.xkcd.com/comics/hiking.png",
+        "alt": "Every downhill walk is a waterslide that might have been.",
+        "transcript": ""
     }
 }
