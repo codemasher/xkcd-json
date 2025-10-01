@@ -25166,5 +25166,13 @@
         "image": "https://imgs.xkcd.com/comics/hiking.png",
         "alt": "Every downhill walk is a waterslide that might have been.",
         "transcript": ""
+    },
+    "xkcd-3148": {
+        "id": 3148,
+        "date": 1759147200,
+        "title": "100% All Achievements",
+        "image": "https://imgs.xkcd.com/comics/100_all_achievements.png",
+        "alt": "I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.",
+        "transcript": ""
     }
 }
