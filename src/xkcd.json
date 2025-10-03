@@ -25174,5 +25174,21 @@
         "image": "https://imgs.xkcd.com/comics/100_all_achievements.png",
         "alt": "I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.",
         "transcript": ""
+    },
+    "xkcd-3149": {
+        "id": 3149,
+        "date": 1759320000,
+        "title": "Measure Twice, Cut Once",
+        "image": "https://imgs.xkcd.com/comics/measure_twice_cut_once.png",
+        "alt": "\"Measure zero times, cut zero times.\" --carpenter who has achieved enlightenment and realized the wood is fine where it is",
+        "transcript": ""
+    },
+    "xkcd-3150": {
+        "id": 3150,
+        "date": 1759492800,
+        "title": "Ping",
+        "image": "https://imgs.xkcd.com/comics/ping.png",
+        "alt": "Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow.",
+        "transcript": ""
     }
 }
