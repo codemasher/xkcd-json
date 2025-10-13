@@ -25214,5 +25214,13 @@
         "image": "https://imgs.xkcd.com/comics/hot_water_balloon.png",
         "alt": "Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.",
         "transcript": ""
+    },
+    "xkcd-3154": {
+        "id": 3154,
+        "date": 1760356800,
+        "title": "Physics Insight",
+        "image": "https://imgs.xkcd.com/comics/physics_insight.png",
+        "alt": "When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'",
+        "transcript": ""
     }
 }
