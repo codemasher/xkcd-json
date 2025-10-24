@@ -25246,5 +25246,21 @@
         "image": "https://imgs.xkcd.com/comics/emperor_palpatine.png",
         "alt": "Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call.",
         "transcript": ""
+    },
+    "xkcd-3158": {
+        "id": 3158,
+        "date": 1761134400,
+        "title": "Shielding Chart",
+        "image": "https://imgs.xkcd.com/comics/shielding_chart.png",
+        "alt": "Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.",
+        "transcript": ""
+    },
+    "xkcd-3159": {
+        "id": 3159,
+        "date": 1761307200,
+        "title": "Continents",
+        "image": "https://imgs.xkcd.com/comics/continents.png",
+        "alt": "The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.",
+        "transcript": ""
     }
 }
