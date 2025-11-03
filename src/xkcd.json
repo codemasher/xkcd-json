@@ -25278,5 +25278,13 @@
         "image": "https://imgs.xkcd.com/comics/airspeed.png",
         "alt": "Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record",
         "transcript": ""
+    },
+    "xkcd-3162": {
+        "id": 3162,
+        "date": 1761912000,
+        "title": "Heart Mountain",
+        "image": "https://imgs.xkcd.com/comics/heart_mountain.png",
+        "alt": "Even geology papers about Heart Mountain are like, \"Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but...\"",
+        "transcript": ""
     }
 }
