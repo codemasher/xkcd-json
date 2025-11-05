@@ -25286,5 +25286,21 @@
         "image": "https://imgs.xkcd.com/comics/heart_mountain.png",
         "alt": "Even geology papers about Heart Mountain are like, \"Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but...\"",
         "transcript": ""
+    },
+    "xkcd-3163": {
+        "id": 3163,
+        "date": 1762171200,
+        "title": "Repair Video",
+        "image": "https://imgs.xkcd.com/comics/repair_video.png",
+        "alt": "The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.",
+        "transcript": ""
+    },
+    "xkcd-3164": {
+        "id": 3164,
+        "date": 1762344000,
+        "title": "Metric Tip",
+        "image": "https://imgs.xkcd.com/comics/metric_tip.png",
+        "alt": "The package weighs 7 kg 9 oz.",
+        "transcript": ""
     }
 }
