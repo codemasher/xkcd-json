@@ -25310,5 +25310,21 @@
         "image": "https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png",
         "alt": "At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'",
         "transcript": ""
+    },
+    "xkcd-3166": {
+        "id": 3166,
+        "date": 1762776000,
+        "title": "Big and Little Spoons",
+        "image": "https://imgs.xkcd.com/comics/big_and_little_spoons.png",
+        "alt": "Are you the annoying spoon or the sleepy spoon?",
+        "transcript": ""
+    },
+    "xkcd-3167": {
+        "id": 3167,
+        "date": 1762948800,
+        "title": "Car Size",
+        "image": "https://imgs.xkcd.com/comics/car_size.png",
+        "alt": "'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'",
+        "transcript": ""
     }
 }
