@@ -25334,5 +25334,13 @@
         "image": "https://imgs.xkcd.com/comics/beam_dump.png",
         "alt": "We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.",
         "transcript": ""
+    },
+    "xkcd-3169": {
+        "id": 3169,
+        "date": 1763380800,
+        "title": "EPIRBs",
+        "image": "https://imgs.xkcd.com/comics/epirbs.png",
+        "alt": "'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'",
+        "transcript": ""
     }
 }
