@@ -25374,5 +25374,21 @@
         "image": "https://imgs.xkcd.com/comics/satellite_imagery.png",
         "alt": "Every weekend I take an ATV out into the desert and spend a day tracing a faint \"(C) GOOGLE 2009\" watermark across the landscape.",
         "transcript": ""
+    },
+    "xkcd-3174": {
+        "id": 3174,
+        "date": 1764331200,
+        "title": "Bridge Clearance",
+        "image": "https://imgs.xkcd.com/comics/bridge_clearance.png",
+        "alt": "A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.",
+        "transcript": ""
+    },
+    "xkcd-3175": {
+        "id": 3175,
+        "date": 1764590400,
+        "title": "Website Task Flowchart",
+        "image": "https://imgs.xkcd.com/comics/website_task_flowchart.png",
+        "alt": "Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!",
+        "transcript": ""
     }
 }
