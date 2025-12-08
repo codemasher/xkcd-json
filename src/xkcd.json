@@ -25398,5 +25398,13 @@
         "image": "https://imgs.xkcd.com/comics/inverted_catenaries.png",
         "alt": "Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.",
         "transcript": ""
+    },
+    "xkcd-3177": {
+        "id": 3177,
+        "date": 1764936000,
+        "title": "Chessboard Alignment",
+        "image": "https://imgs.xkcd.com/comics/chessboard_alignment.png",
+        "alt": "Luckily, the range is limited by the fact that the square boundary lines follow great circles.",
+        "transcript": ""
     }
 }
