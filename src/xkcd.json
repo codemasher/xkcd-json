@@ -25454,5 +25454,13 @@
         "image": "https://imgs.xkcd.com/comics/pole_vault_pole.png",
         "alt": "My goal in life is to be personally responsible for at least one sports rule change.",
         "transcript": ""
+    },
+    "xkcd-3184": {
+        "id": 3184,
+        "date": 1766404800,
+        "title": "Funny Numbers",
+        "image": "https://imgs.xkcd.com/comics/funny_numbers.png",
+        "alt": "In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.",
+        "transcript": ""
     }
 }
