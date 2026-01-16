@@ -25542,5 +25542,13 @@
         "image": "https://imgs.xkcd.com/comics/16_part_epoxy.png",
         "alt": "Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors.",
         "transcript": ""
+    },
+    "xkcd-3195": {
+        "id": 3195,
+        "date": 1768564800,
+        "title": "International Station",
+        "image": "https://imgs.xkcd.com/comics/international_station.png",
+        "alt": "Welcome to the International Space Station Exclamation Point!",
+        "transcript": ""
     }
 }
