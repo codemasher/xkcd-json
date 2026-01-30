@@ -25590,5 +25590,13 @@
         "image": "https://imgs.xkcd.com/comics/chemical_formula.png",
         "alt": "Some of the atoms in the molecule are very weakly bound.",
         "transcript": ""
+    },
+    "xkcd-3201": {
+        "id": 3201,
+        "date": 1769774400,
+        "title": "Proof Without Content",
+        "image": "https://imgs.xkcd.com/comics/proof_without_content.png",
+        "alt": "There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.",
+        "transcript": ""
     }
 }
