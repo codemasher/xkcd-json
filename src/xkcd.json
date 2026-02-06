@@ -25606,5 +25606,21 @@
         "image": "https://imgs.xkcd.com/comics/groundhog_day_meaning.png",
         "alt": "Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.",
         "transcript": ""
+    },
+    "xkcd-3203": {
+        "id": 3203,
+        "date": 1770206400,
+        "title": "Binary Star",
+        "image": "https://imgs.xkcd.com/comics/binary_star.png",
+        "alt": "The discovery of a fully typographical star system comes with a big asterisk.",
+        "transcript": ""
+    },
+    "xkcd-3204": {
+        "id": 3204,
+        "date": 1770379200,
+        "title": "Dinosaurs And Non-Dinosaurs",
+        "image": "https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png",
+        "alt": "Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.",
+        "transcript": ""
     }
 }
