@@ -25630,5 +25630,13 @@
         "image": "https://imgs.xkcd.com/comics/carbon_dating.png",
         "alt": "This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.",
         "transcript": ""
+    },
+    "xkcd-3206": {
+        "id": 3206,
+        "date": 1770811200,
+        "title": "Installation",
+        "image": "https://imgs.xkcd.com/comics/installation.png",
+        "alt": "Do YOU remember the skylight being this big?",
+        "transcript": ""
     }
 }
