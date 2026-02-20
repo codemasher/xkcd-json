@@ -25654,5 +25654,21 @@
         "image": "https://imgs.xkcd.com/comics/snews.png",
         "alt": "People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.",
         "transcript": ""
+    },
+    "xkcd-3209": {
+        "id": 3209,
+        "date": 1771416000,
+        "title": "Plums",
+        "image": "https://imgs.xkcd.com/comics/plums.png",
+        "alt": "My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.",
+        "transcript": ""
+    },
+    "xkcd-3210": {
+        "id": 3210,
+        "date": 1771588800,
+        "title": "Eliminating the Impossible",
+        "image": "https://imgs.xkcd.com/comics/eliminating_the_impossible.png",
+        "alt": "'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.",
+        "transcript": ""
     }
 }
