@@ -25678,5 +25678,13 @@
         "image": "https://imgs.xkcd.com/comics/amperage.png",
         "alt": "Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?",
         "transcript": ""
+    },
+    "xkcd-3212": {
+        "id": 3212,
+        "date": 1772020800,
+        "title": "Little Red Dots",
+        "image": "https://imgs.xkcd.com/comics/little_red_dots.png",
+        "alt": "After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.",
+        "transcript": ""
     }
 }
