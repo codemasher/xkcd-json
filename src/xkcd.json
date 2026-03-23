@@ -25766,5 +25766,13 @@
         "image": "https://imgs.xkcd.com/comics/star_formation.png",
         "alt": "It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!",
         "transcript": ""
+    },
+    "xkcd-3223": {
+        "id": 3223,
+        "date": 1774267200,
+        "title": "Inflation Timeline",
+        "image": "https://imgs.xkcd.com/comics/inflation_timeline.png",
+        "alt": "Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'",
+        "transcript": ""
     }
 }
