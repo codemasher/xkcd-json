@@ -25774,5 +25774,21 @@
         "image": "https://imgs.xkcd.com/comics/inflation_timeline.png",
         "alt": "Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'",
         "transcript": ""
+    },
+    "xkcd-3224": {
+        "id": 3224,
+        "date": 1774440000,
+        "title": "Centimeter Wavelengths",
+        "image": "https://imgs.xkcd.com/comics/centimeter_wavelengths.png",
+        "alt": "Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?",
+        "transcript": ""
+    },
+    "xkcd-3225": {
+        "id": 3225,
+        "date": 1774612800,
+        "title": "Satellite Pollution",
+        "image": "https://imgs.xkcd.com/comics/satellite_pollution.png",
+        "alt": "We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.",
+        "transcript": ""
     }
 }
