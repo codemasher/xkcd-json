@@ -25790,5 +25790,21 @@
         "image": "https://imgs.xkcd.com/comics/satellite_pollution.png",
         "alt": "We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.",
         "transcript": ""
+    },
+    "xkcd-3226": {
+        "id": 3226,
+        "date": 1774872000,
+        "title": "Home Solar",
+        "image": "https://imgs.xkcd.com/comics/home_solar.png",
+        "alt": "\"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own.\"",
+        "transcript": ""
+    },
+    "xkcd-3227": {
+        "id": 3227,
+        "date": 1775044800,
+        "title": "Creation",
+        "image": "https://imgs.xkcd.com/comics/creation.png",
+        "alt": "This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.",
+        "transcript": ""
     }
 }
