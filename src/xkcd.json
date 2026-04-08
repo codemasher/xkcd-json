@@ -25814,5 +25814,21 @@
         "image": "https://imgs.xkcd.com/comics/day_counter.png",
         "alt": "It has been \u22122,147,483,648 days since our last integer overflow.",
         "transcript": ""
+    },
+    "xkcd-3229": {
+        "id": 3229,
+        "date": 1775476800,
+        "title": "Grammar",
+        "image": "https://imgs.xkcd.com/comics/grammar.png",
+        "alt": "Communication is one of the most popular ways to transmit information, ahead of rivals such as",
+        "transcript": ""
+    },
+    "xkcd-3230": {
+        "id": 3230,
+        "date": 1775649600,
+        "title": "Overton",
+        "image": "https://imgs.xkcd.com/comics/overton.png",
+        "alt": "I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.",
+        "transcript": ""
     }
 }
