@@ -25830,5 +25830,13 @@
         "image": "https://imgs.xkcd.com/comics/overton.png",
         "alt": "I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.",
         "transcript": ""
+    },
+    "xkcd-3231": {
+        "id": 3231,
+        "date": 1775822400,
+        "title": "Lightning",
+        "image": "https://imgs.xkcd.com/comics/lightning.png",
+        "alt": "Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.",
+        "transcript": ""
     }
 }
