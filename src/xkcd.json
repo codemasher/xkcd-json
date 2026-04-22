@@ -25862,5 +25862,21 @@
         "image": "https://imgs.xkcd.com/comics/europa_missions.png",
         "alt": "Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.",
         "transcript": ""
+    },
+    "xkcd-3235": {
+        "id": 3235,
+        "date": 1776686400,
+        "title": "Types of Board Game",
+        "image": "https://imgs.xkcd.com/comics/types_of_board_game.png",
+        "alt": "I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.",
+        "transcript": ""
+    },
+    "xkcd-3236": {
+        "id": 3236,
+        "date": 1776859200,
+        "title": "Border Message",
+        "image": "https://imgs.xkcd.com/comics/border_message.png",
+        "alt": "Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.",
+        "transcript": ""
     }
 }
