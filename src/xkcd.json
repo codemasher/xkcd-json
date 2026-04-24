@@ -25878,5 +25878,13 @@
         "image": "https://imgs.xkcd.com/comics/border_message.png",
         "alt": "Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.",
         "transcript": ""
+    },
+    "xkcd-3237": {
+        "id": 3237,
+        "date": 1777032000,
+        "title": "Husband and Wife",
+        "image": "https://imgs.xkcd.com/comics/husband_and_wife.png",
+        "alt": "Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.",
+        "transcript": ""
     }
 }
