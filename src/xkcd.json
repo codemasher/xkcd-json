@@ -25910,5 +25910,21 @@
         "image": "https://imgs.xkcd.com/comics/bottle.png",
         "alt": "\"I know it seems impossible, but the trick is that I sailed in here when I was very young.\"",
         "transcript": ""
+    },
+    "xkcd-3241": {
+        "id": 3241,
+        "date": 1777896000,
+        "title": "Horizontal Stabilizers",
+        "image": "https://imgs.xkcd.com/comics/horizontal_stabilizers.png",
+        "alt": "It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.",
+        "transcript": ""
+    },
+    "xkcd-3242": {
+        "id": 3242,
+        "date": 1778068800,
+        "title": "Aperiodic Table",
+        "image": "https://imgs.xkcd.com/comics/aperiodic_table.png",
+        "alt": "Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.",
+        "transcript": ""
     }
 }
