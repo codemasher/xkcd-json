@@ -25934,5 +25934,21 @@
         "image": "https://imgs.xkcd.com/comics/crystal_gazing.png",
         "alt": "'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.",
         "transcript": ""
+    },
+    "xkcd-3244": {
+        "id": 3244,
+        "date": 1778500800,
+        "title": "Pullback Drive",
+        "image": "https://imgs.xkcd.com/comics/pullback_drive.png",
+        "alt": "\"How does the spring not run out almost immediately?\" \"We pull it back REALLY far.\"",
+        "transcript": ""
+    },
+    "xkcd-3245": {
+        "id": 3245,
+        "date": 1778673600,
+        "title": "Results Age",
+        "image": "https://imgs.xkcd.com/comics/results_age.png",
+        "alt": "Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.",
+        "transcript": ""
     }
 }
