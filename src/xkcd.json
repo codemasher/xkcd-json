@@ -25950,5 +25950,21 @@
         "image": "https://imgs.xkcd.com/comics/results_age.png",
         "alt": "Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.",
         "transcript": ""
+    },
+    "xkcd-3246": {
+        "id": 3246,
+        "date": 1778846400,
+        "title": "Speedrun",
+        "image": "https://imgs.xkcd.com/comics/speedrun.png",
+        "alt": "Usain Bolt holds the world record in the 100 meter speedrun.",
+        "transcript": ""
+    },
+    "xkcd-3247": {
+        "id": 3247,
+        "date": 1779105600,
+        "title": "Particle Census",
+        "image": "https://imgs.xkcd.com/comics/particle_census.png",
+        "alt": "Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.",
+        "transcript": ""
     }
 }
