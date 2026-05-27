@@ -25982,5 +25982,21 @@
         "image": "https://imgs.xkcd.com/comics/neutrino_project.png",
         "alt": "We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.",
         "transcript": ""
+    },
+    "xkcd-3250": {
+        "id": 3250,
+        "date": 1779710400,
+        "title": "Flag Design",
+        "image": "https://imgs.xkcd.com/comics/flag_design.png",
+        "alt": "Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.",
+        "transcript": ""
+    },
+    "xkcd-3251": {
+        "id": 3251,
+        "date": 1779883200,
+        "title": "Time Machine Conversation",
+        "image": "https://imgs.xkcd.com/comics/time_machine_conversation.png",
+        "alt": "It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.",
+        "transcript": ""
     }
 }
