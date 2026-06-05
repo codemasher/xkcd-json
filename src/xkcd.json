@@ -26022,5 +26022,13 @@
         "image": "https://imgs.xkcd.com/comics/detector.png",
         "alt": "No other experiment has a lower false negative rate.",
         "transcript": ""
+    },
+    "xkcd-3255": {
+        "id": 3255,
+        "date": 1780660800,
+        "title": "Planetary Science",
+        "image": "https://imgs.xkcd.com/comics/planetary_science.png",
+        "alt": "The research was overseen by the Institutional Review Board, which is what I named my surfboard.",
+        "transcript": ""
     }
 }
