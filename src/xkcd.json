@@ -26030,5 +26030,13 @@
         "image": "https://imgs.xkcd.com/comics/planetary_science.png",
         "alt": "The research was overseen by the Institutional Review Board, which is what I named my surfboard.",
         "transcript": ""
+    },
+    "xkcd-3256": {
+        "id": 3256,
+        "date": 1780920000,
+        "title": "Nostalgia Content",
+        "image": "https://imgs.xkcd.com/comics/nostalgia_content.png",
+        "alt": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
+        "transcript": ""
     }
 }
