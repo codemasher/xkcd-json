@@ -26038,5 +26038,13 @@
         "image": "https://imgs.xkcd.com/comics/nostalgia_content.png",
         "alt": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
         "transcript": ""
+    },
+    "xkcd-3257": {
+        "id": 3257,
+        "date": 1781092800,
+        "title": "Beam Pipe",
+        "image": "https://imgs.xkcd.com/comics/beam_pipe.png",
+        "alt": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
+        "transcript": ""
     }
 }
