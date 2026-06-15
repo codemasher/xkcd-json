@@ -26046,5 +26046,21 @@
         "image": "https://imgs.xkcd.com/comics/beam_pipe.png",
         "alt": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
         "transcript": ""
+    },
+    "xkcd-3258": {
+        "id": 3258,
+        "date": 1781265600,
+        "title": "Plate Flip",
+        "image": "https://imgs.xkcd.com/comics/plate_flip.png",
+        "alt": "It's great for exfoliating your skin, bones, houses, cities, landscape, etc.",
+        "transcript": ""
+    },
+    "xkcd-3259": {
+        "id": 3259,
+        "date": 1781524800,
+        "title": "Tethys",
+        "image": "https://imgs.xkcd.com/comics/tethys.png",
+        "alt": "In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.",
+        "transcript": ""
     }
 }
