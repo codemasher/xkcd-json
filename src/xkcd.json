@@ -26062,5 +26062,13 @@
         "image": "https://imgs.xkcd.com/comics/tethys.png",
         "alt": "In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.",
         "transcript": ""
+    },
+    "xkcd-3260": {
+        "id": 3260,
+        "date": 1781697600,
+        "title": "Messi",
+        "image": "https://imgs.xkcd.com/comics/messi.png",
+        "alt": "Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.",
+        "transcript": ""
     }
 }
