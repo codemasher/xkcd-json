@@ -26094,5 +26094,21 @@
         "image": "https://imgs.xkcd.com/comics/baryon_asymmetry.png",
         "alt": "Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?",
         "transcript": ""
+    },
+    "xkcd-3264": {
+        "id": 3264,
+        "date": 1782475200,
+        "title": "720 Ollie",
+        "image": "https://imgs.xkcd.com/comics/720_ollie.png",
+        "alt": "This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.",
+        "transcript": ""
+    },
+    "xkcd-3265": {
+        "id": 3265,
+        "date": 1782734400,
+        "title": "Asteroid Threat",
+        "image": "https://imgs.xkcd.com/comics/asteroid_threat.png",
+        "alt": "Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.",
+        "transcript": ""
     }
 }
