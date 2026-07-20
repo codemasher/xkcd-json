@@ -26174,5 +26174,13 @@
         "image": "https://imgs.xkcd.com/comics/latitude_and_longitude.png",
         "alt": "NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).",
         "transcript": ""
+    },
+    "xkcd-3274": {
+        "id": 3274,
+        "date": 1784548800,
+        "title": "Arthurian Connector",
+        "image": "https://imgs.xkcd.com/comics/arthurian_connector.png",
+        "alt": "Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.",
+        "transcript": ""
     }
 }
