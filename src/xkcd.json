@@ -26190,5 +26190,21 @@
         "image": "https://imgs.xkcd.com/comics/calibration_nobel.png",
         "alt": "We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.",
         "transcript": ""
+    },
+    "xkcd-3276": {
+        "id": 3276,
+        "date": 1784894400,
+        "title": "Recursive Trucker's Hitch",
+        "image": "https://imgs.xkcd.com/comics/recursive_truckers_hitch.png",
+        "alt": "As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.",
+        "transcript": ""
+    },
+    "xkcd-3277": {
+        "id": 3277,
+        "date": 1785153600,
+        "title": "Forth",
+        "image": "https://imgs.xkcd.com/comics/forth.png",
+        "alt": "I NOTATION POLISH REVERSE \u2764\ufe0f",
+        "transcript": ""
     }
 }
