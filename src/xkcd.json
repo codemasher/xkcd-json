@@ -26222,5 +26222,13 @@
         "image": "https://imgs.xkcd.com/comics/main_span.png",
         "alt": "Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?",
         "transcript": ""
+    },
+    "xkcd-3280": {
+        "id": 3280,
+        "date": 1785758400,
+        "title": "Maze",
+        "image": "https://imgs.xkcd.com/comics/maze.png",
+        "alt": "As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.",
+        "transcript": ""
     }
 }
