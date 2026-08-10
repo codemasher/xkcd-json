@@ -26246,5 +26246,13 @@
         "image": "https://imgs.xkcd.com/comics/trick_play.png",
         "alt": "I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.",
         "transcript": ""
+    },
+    "xkcd-3283": {
+        "id": 3283,
+        "date": 1786363200,
+        "title": "Size and Lifespan",
+        "image": "https://imgs.xkcd.com/comics/size_and_lifespan.png",
+        "alt": "With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.",
+        "transcript": ""
     }
 }
