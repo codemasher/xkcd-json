@@ -26254,5 +26254,13 @@
         "image": "https://imgs.xkcd.com/comics/size_and_lifespan.png",
         "alt": "With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.",
         "transcript": ""
+    },
+    "xkcd-3284": {
+        "id": 3284,
+        "date": 1786536000,
+        "title": "Geology Building",
+        "image": "https://imgs.xkcd.com/comics/geology_building.png",
+        "alt": "The administration thinks it's weird, but the geologists say it looks normal.",
+        "transcript": ""
     }
 }
