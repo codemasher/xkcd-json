@@ -26270,5 +26270,21 @@
         "image": "https://imgs.xkcd.com/comics/accretionary_arc.png",
         "alt": "The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.",
         "transcript": ""
+    },
+    "xkcd-3286": {
+        "id": 3286,
+        "date": 1786968000,
+        "title": "Particle Physics Equipment",
+        "image": "https://imgs.xkcd.com/comics/particle_physics_equipment.png",
+        "alt": "The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.",
+        "transcript": ""
+    },
+    "xkcd-3287": {
+        "id": 3287,
+        "date": 1787140800,
+        "title": "Perseids",
+        "image": "https://imgs.xkcd.com/comics/perseids.png",
+        "alt": "Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.",
+        "transcript": ""
     }
 }
