@@ -26286,5 +26286,13 @@
         "image": "https://imgs.xkcd.com/comics/perseids.png",
         "alt": "Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.",
         "transcript": ""
+    },
+    "xkcd-3288": {
+        "id": 3288,
+        "date": 1787313600,
+        "title": "Archery Feat",
+        "image": "https://imgs.xkcd.com/comics/archery_feat.png",
+        "alt": "Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.",
+        "transcript": ""
     }
 }
