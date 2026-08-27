@@ -26294,5 +26294,21 @@
         "image": "https://imgs.xkcd.com/comics/archery_feat.png",
         "alt": "Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.",
         "transcript": ""
+    },
+    "xkcd-3289": {
+        "id": 3289,
+        "date": 1787572800,
+        "title": "Highway Signs",
+        "image": "https://imgs.xkcd.com/comics/highway_signs.png",
+        "alt": "Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.",
+        "transcript": ""
+    },
+    "xkcd-3290": {
+        "id": 3290,
+        "date": 1787745600,
+        "title": "Trade",
+        "image": "https://imgs.xkcd.com/comics/trade.png",
+        "alt": "\"You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.\"",
+        "transcript": ""
     }
 }
