@@ -26326,5 +26326,13 @@
         "image": "https://imgs.xkcd.com/comics/geology_class.png",
         "alt": "The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.",
         "transcript": ""
+    },
+    "xkcd-3293": {
+        "id": 3293,
+        "date": 1788350400,
+        "title": "Handedness",
+        "image": "https://imgs.xkcd.com/comics/handedness.png",
+        "alt": "A 'left-handed specialist' is a physicist who studies the weak interaction.",
+        "transcript": ""
     }
 }
