@@ -26342,5 +26342,13 @@
         "image": "https://imgs.xkcd.com/comics/asteroid_mission.png",
         "alt": "Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.",
         "transcript": ""
+    },
+    "xkcd-3295": {
+        "id": 3295,
+        "date": 1788782400,
+        "title": "Semaphore",
+        "image": "https://imgs.xkcd.com/comics/semaphore.png",
+        "alt": "The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.",
+        "transcript": ""
     }
 }
