@@ -26358,5 +26358,13 @@
         "image": "https://imgs.xkcd.com/comics/fault_taunting.png",
         "alt": "One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.",
         "transcript": ""
+    },
+    "xkcd-3297": {
+        "id": 3297,
+        "date": 1789128000,
+        "title": "OH Scale",
+        "image": "https://imgs.xkcd.com/comics/oh_scale.png",
+        "alt": "To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.",
+        "transcript": ""
     }
 }
