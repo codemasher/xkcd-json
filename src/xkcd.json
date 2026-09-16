@@ -26374,5 +26374,13 @@
         "image": "https://imgs.xkcd.com/comics/aerospace_flowchart.png",
         "alt": "Someday, we will find the problem that goes with this solution.",
         "transcript": ""
+    },
+    "xkcd-3299": {
+        "id": 3299,
+        "date": 1789560000,
+        "title": "Summer",
+        "image": "https://imgs.xkcd.com/comics/summer.png",
+        "alt": "You should probably get back to shore before spring hits.",
+        "transcript": ""
     }
 }
