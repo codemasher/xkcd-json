@@ -26382,5 +26382,13 @@
         "image": "https://imgs.xkcd.com/comics/summer.png",
         "alt": "You should probably get back to shore before spring hits.",
         "transcript": ""
+    },
+    "xkcd-3300": {
+        "id": 3300,
+        "date": 1789732800,
+        "title": "Tyrannosaurus",
+        "image": "https://imgs.xkcd.com/comics/tyrannosaurus.png",
+        "alt": "Many of the smaller dinosaurs seem to have largely preyed on housecats.",
+        "transcript": ""
     }
 }
