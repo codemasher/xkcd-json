@@ -26398,5 +26398,21 @@
         "image": "https://imgs.xkcd.com/comics/stargazing_5.png",
         "alt": "The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.",
         "transcript": ""
+    },
+    "xkcd-3302": {
+        "id": 3302,
+        "date": 1790164800,
+        "title": "Voyager Instruments",
+        "image": "https://imgs.xkcd.com/comics/voyager_instruments.png",
+        "alt": "Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.",
+        "transcript": ""
+    },
+    "xkcd-3303": {
+        "id": 3303,
+        "date": 1790337600,
+        "title": "Slab Graveyard",
+        "image": "https://imgs.xkcd.com/comics/slab_graveyard.png",
+        "alt": "It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!",
+        "transcript": ""
     }
 }
