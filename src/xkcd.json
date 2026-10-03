@@ -26422,5 +26422,21 @@
         "image": "https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png",
         "alt": "\"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons.\"",
         "transcript": ""
+    },
+    "xkcd-3305": {
+        "id": 3305,
+        "date": 1790769600,
+        "title": "Ground Effect",
+        "image": "https://imgs.xkcd.com/comics/ground_effect.png",
+        "alt": "Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.",
+        "transcript": ""
+    },
+    "xkcd-3306": {
+        "id": 3306,
+        "date": 1790942400,
+        "title": "Accelerator Energies",
+        "image": "https://imgs.xkcd.com/comics/accelerator_energies.png",
+        "alt": "Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.",
+        "transcript": ""
     }
 }
