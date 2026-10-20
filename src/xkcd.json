@@ -26486,5 +26486,13 @@
         "image": "https://imgs.xkcd.com/comics/momentum_demonstration.png",
         "alt": "\"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.\"",
         "transcript": ""
+    },
+    "xkcd-3313": {
+        "id": 3313,
+        "date": 1792411200,
+        "title": "Fusion Device",
+        "image": "https://imgs.xkcd.com/comics/fusion_device.png",
+        "alt": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
+        "transcript": ""
     }
 }
