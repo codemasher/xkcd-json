@@ -26494,5 +26494,13 @@
         "image": "https://imgs.xkcd.com/comics/fusion_device.png",
         "alt": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
         "transcript": ""
+    },
+    "xkcd-3314": {
+        "id": 3314,
+        "date": 1792584000,
+        "title": "Vulnerability",
+        "image": "https://imgs.xkcd.com/comics/vulnerability.png",
+        "alt": "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.",
+        "transcript": ""
     }
 }
