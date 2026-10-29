@@ -26510,5 +26510,13 @@
         "image": "https://imgs.xkcd.com/comics/forms_of_water.png",
         "alt": "The 'light' refers to bremsstrahlung.",
         "transcript": ""
+    },
+    "xkcd-3316": {
+        "id": 3316,
+        "date": 1793016000,
+        "title": "Siege Engine",
+        "image": "https://imgs.xkcd.com/comics/siege_engine.png",
+        "alt": "They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.",
+        "transcript": ""
     }
 }
