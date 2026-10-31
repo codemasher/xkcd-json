@@ -26518,5 +26518,21 @@
         "image": "https://imgs.xkcd.com/comics/siege_engine.png",
         "alt": "They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.",
         "transcript": ""
+    },
+    "xkcd-3317": {
+        "id": 3317,
+        "date": 1793188800,
+        "title": "Gravitational Square Wave",
+        "image": "https://imgs.xkcd.com/comics/gravitational_square_wave.png",
+        "alt": "Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.",
+        "transcript": ""
+    },
+    "xkcd-3318": {
+        "id": 3318,
+        "date": 1793361600,
+        "title": "Earth Sized Planets",
+        "image": "https://imgs.xkcd.com/comics/earth_sized_planets.png",
+        "alt": "It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.",
+        "transcript": ""
     }
 }
