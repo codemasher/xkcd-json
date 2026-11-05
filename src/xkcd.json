@@ -26542,5 +26542,13 @@
         "image": "https://imgs.xkcd.com/comics/elevators.png",
         "alt": "\"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.\"",
         "transcript": ""
+    },
+    "xkcd-3320": {
+        "id": 3320,
+        "date": 1793793600,
+        "title": "House Majority",
+        "image": "https://imgs.xkcd.com/comics/house_majority.png",
+        "alt": "For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.",
+        "transcript": ""
     }
 }
