@@ -26550,5 +26550,13 @@
         "image": "https://imgs.xkcd.com/comics/house_majority.png",
         "alt": "For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.",
         "transcript": ""
+    },
+    "xkcd-3321": {
+        "id": 3321,
+        "date": 1793966400,
+        "title": "Simulation",
+        "image": "https://imgs.xkcd.com/comics/simulation.png",
+        "alt": "No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.",
+        "transcript": ""
     }
 }
